@@ -1,1 +1,1 @@
-web: node npm start
+web: node ui5 serve
