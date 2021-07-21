@@ -1,1 +1,1 @@
-web: node ui5 serve
+web: node ./index.html
