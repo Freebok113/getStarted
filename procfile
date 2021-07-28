@@ -1,1 +1,1 @@
-web: node index.html
+web: ui5 serve -o index.html
